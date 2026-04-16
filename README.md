@@ -21,17 +21,17 @@
 
 <h3 align="center">LeetCode Stats</h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Trigun_2005?ext=contest" alt="LeetCode Contest Stats" align="center" width="400" />
+  <img src="https://leetcard.jacoblin.cool/TrigunAlgo?ext=contest" alt="LeetCode Contest Stats" align="center" width="400" />
 </div>
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Trigun-123&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="GitHub Stats" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=TrigunDev&show_icons=true&locale=en&border_radius=10&theme=dracula" alt="GitHub Stats" />
 </div>
 
 <h3 align="center">Most Used Languages</h3>
 <div align="center">
-  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trigun-123&show_icons=true&layout=compact&locale=en&theme=dracula" alt="Most Used Languages" />
+  <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrigunDev&show_icons=true&layout=compact&locale=en&theme=dracula" alt="Most Used Languages" />
 </div>
 
 ![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
