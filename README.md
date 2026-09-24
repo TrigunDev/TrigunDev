@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:triguntamragouri@gmail.com)
-[![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/trigungurumurti)
+[![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trigungurumurti/)
 <br>
 
 <h3 align="left">Skills:</h3>
